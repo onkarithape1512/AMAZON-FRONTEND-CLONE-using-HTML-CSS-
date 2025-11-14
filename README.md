@@ -58,18 +58,6 @@ Right-click on index.html
 
 Select Open with Live Server
 
-📸 Screenshots
-
-(Add screenshots here)
-
-Homepage
-
-Navbar
-
-Footer
-
-Product Cards
-
 🔮 Future Improvements
 
 Add mobile responsiveness
