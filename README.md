@@ -8,7 +8,7 @@ This project recreates the layout and design of Amazon’s homepage for learning
 
 Example:
 
-https://your-username.github.io/amazon-clone/
+ https://onkarithape1512.github.io/AMAZON-FRONTEND-CLONE-using-HTML-CSS-/
 
 📌 Features
 
